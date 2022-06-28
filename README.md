@@ -2,10 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
  
-<div id="badges">
-  <p align="center">
-  <img src="https://img.shields.io/badge/D7x8-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </p>
+
 </div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
