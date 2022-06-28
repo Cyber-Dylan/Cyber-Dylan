@@ -25,11 +25,11 @@
 
 ### 🛠️ Languages and Tools I use:
 
-<img align="left" alt="Visual Studio Code" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Javascript" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
