@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
  
 
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on making a working Arduino robot in C++.
 - 🌱 I’m currently learning Python, C++ and C#.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
-- 🥅 2022 Goals: know a decent amount of python by the end of the year.
+- 🥅 Goals: Hnow a decent amount of python by the end of the year.
 
 
 ### 🛠️ Languages and Tools I use/study:
