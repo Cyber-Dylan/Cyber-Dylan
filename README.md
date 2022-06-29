@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://file.io/rTPgctFvSCCZ" width="400"/>
 </div>
- 
-
-</div>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</p>
 
 # Greetings my fellow page dweller 👋 🤗
 
