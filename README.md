@@ -8,9 +8,11 @@
 
 # Greetings my fellow page dweller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
+---
 
 ## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design.
 
+---
  
 - 😄 Pronouns: They/Them
 - 🔭 I’m currently working on making a working Arduino robot in C++.
@@ -43,5 +45,7 @@
 ### :fire: My Stats :
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=D7x8&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D7x8&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
