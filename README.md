@@ -2,11 +2,16 @@
   <img src="https://file.io/rTPgctFvSCCZ" width="400"/>
 </div>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
 # Greetings my fellow page dweller 👋 🤗
 
 
-## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design
+## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design.
 
+ 
 - 😄 Pronouns: They/Them
 - 🔭 I’m currently working on making a working Arduino robot in C++.
 - 🌱 I’m currently learning Python, C++ and C#.
