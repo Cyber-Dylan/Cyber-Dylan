@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://file.io/bTjOER2sg3u7" width="400"/>
 </div>
  
 
@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </p>
 
-# Greetings my fellow page dweller 👋 
+# Greetings my fellow page dweller 👋 🤗
 
 
 ## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design
