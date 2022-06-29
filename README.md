@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 # Greetings my fellow page dweller 👋 🤗
