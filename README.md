@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-# Greetings my fellow page dweller 👋 🤗
+# Greetings my fellow page dweller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 
 ## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design.
