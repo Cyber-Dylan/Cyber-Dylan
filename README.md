@@ -20,7 +20,7 @@
 
 
 ### 🛠️ Languages and Tools I use/study:
-
+  
 <img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -35,7 +35,8 @@
 <img align="left" alt="Raspberry Pi" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 
-
+<br />
+<br />
 
 ---
 
