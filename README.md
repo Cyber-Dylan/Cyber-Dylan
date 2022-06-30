@@ -1,12 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
-</div>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.reddit.com/D7x8"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"></a>
+</p>
+
+<p align="center">
+<a href="https://www.patreon.com/D7x8"><img src="https://img.shields.io/badge/Patreon-red?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon Badge"></a>
+</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-# Greetings my fellow page dweller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 align="center">Greetings my fellow page dweller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ---
 
