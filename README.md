@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.patreon.com/D7x8"><img src="https://img.shields.io/badge/Patreon-red?style=for-the-badge&logo=Patreon&logoColor=white" alt="Patreon Badge"></a>
-</p>
-
-<p align="center">
     <img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
