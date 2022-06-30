@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://www.reddit.com/user/D7x8"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"></a>
 </p>
