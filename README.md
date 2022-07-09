@@ -33,12 +33,12 @@
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu Based Linux Distros" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Debian Based Linux Distros" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
