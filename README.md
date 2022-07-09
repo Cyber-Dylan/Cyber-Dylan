@@ -33,7 +33,6 @@
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="padding-right:10px;" />
 <img align="left" alt="Kali Linux" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
