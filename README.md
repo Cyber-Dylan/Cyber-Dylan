@@ -33,8 +33,8 @@
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GO" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GO" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Kali Linux" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
