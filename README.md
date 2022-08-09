@@ -34,7 +34,7 @@
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="padding-right:10px;" />
 <img align="left" alt="Photoshop" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
