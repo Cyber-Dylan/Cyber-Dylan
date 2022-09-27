@@ -28,7 +28,7 @@
 <img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Javascript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
