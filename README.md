@@ -11,7 +11,7 @@
 
 ---
 
-## I'm a student studying Cybersecurity, Programming, Robotics, Penetration testing and Design.
+## I'm a student studying Programming, Hacking, Cybersecurity, Robotics, Networking and Design.
 
 ---
  
