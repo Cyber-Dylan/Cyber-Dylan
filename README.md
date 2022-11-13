@@ -16,8 +16,8 @@
 ---
  
 - 😄 Pronouns: They/Them
-- 🔭 I’m currently working on making a working Arduino robot in C++.
-- 🌱 I’m currently learning Python, C++ and C#.
+- 🔭 I’m currently working on making a working Arduino robot in C.
+- 🌱 I’m currently learning Python, C, C#, Rust and Java.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
 - 🥅 Goals: Know a decent amount of Python by the end of the year.
 
