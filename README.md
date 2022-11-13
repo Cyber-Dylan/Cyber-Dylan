@@ -16,10 +16,10 @@
 ---
  
 - 😄 Pronouns: They/Them
-- 🔭 I’m currently working on making a working Arduino robot in C.
+- 🔭 I’m currently working on making a working on building a server and getting NixOS running on it among other things.
 - 🌱 I’m currently learning Python, C, C#, Rust and Java.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
-- 🥅 Goals: Know a decent amount of Python by the end of the year.
+- 🥅 Goals: Know a decent amount of Python, C and Rust by the end of the year and to know java and Calculus by the end of next year.
 
 
 ### 🛠️ Languages and Tools I use/study:
