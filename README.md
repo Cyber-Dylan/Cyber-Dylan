@@ -15,7 +15,7 @@
 
 ---
  
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/They
 - 🔭 I’m currently working on making a working on building a server and getting NixOS running on it among other things.
 - 🌱 I’m currently learning Python, C, C#, Rust and Java.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
