@@ -16,10 +16,10 @@
 ---
  
 - 😄 Pronouns: He/They
-- 🔭 I’m currently working on making a working on building a server and getting NixOS running on it among other things.
-- 🌱 I’m currently learning Python, C, C#, Rust and Java.
+- 🔭 I’m currently working on passing level 2 computer science among other things.
+- 🌱 I’m currently learning Python, C, and Java.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
-- 🥅 Goals: Know a decent amount of Python, C and Rust by the end of the year and to know java and Calculus by the end of next year.
+- 🥅 Goals: Attend the NZCSC CROW event and get an exelence in my level 2 cybersecurity exam.
 
 
 ### 🛠️ Languages and Tools I use/study:
