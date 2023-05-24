@@ -15,7 +15,7 @@
 
 ---
  
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/him
 - 🔭 I’m currently working on passing level 2 computer science among other things.
 - 🌱 I’m currently learning Python, C, and Java.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
