@@ -37,7 +37,7 @@
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:15px;" />
 <img align="left" alt="Rust" width="35px" src="https://www.rust-lang.org/logos/rust-logo-64x64.png" style="padding-right:15px;" />
 <img align="left" alt="Arch Linux" width="35px" src="https://www.svgrepo.com/show/349296/arch-linux.svg" style="padding-right:15px;" />
-
+<img align="left" alt="FireFox" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" style="padding-right:15px;" />
 <br />
 <br />
 
