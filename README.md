@@ -11,20 +11,21 @@
 
 ---
 
-## I'm a student studying Programming, Hacking, Cybersecurity, Robotics, Networking and Design.
+## I'm a student studying all fields of Cybersecurity as well as Programming/Software Engineering, Hardware and Mathmatics on the side.
 
 ---
  
 - 😄 Pronouns: He/him
-- 🔭 I’m currently working on passing level 2 computer science among other things.
-- 🌱 I’m currently learning Python, C, and Java.
+- 🔭 I’m currently working on passing NCEA level 2.
+- 🌱 I’m currently learning Java, Linux, Hacking and Maths.
 - 📫 How to reach me: Add me on Discord; D7x8#9899.
-- 🥅 Goals: Attend the NZCSC CROW event and get an exelence in my level 2 cybersecurity exam.
+- 🥅 Goals: Take Cybersecurity engineering with Honours in university.
 
 
 ### 🛠️ Languages and Tools I use/study:
   
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -33,12 +34,9 @@
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ruby" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="35px" src="https://www.rust-lang.org/logos/rust-logo-64x64.png" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
-<img align="left" alt="Raspberry Pi" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
