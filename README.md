@@ -18,8 +18,8 @@
 - 😄 Pronouns: He/him
 - 🔭 I’m currently working on passing NCEA level 2.
 - 🌱 I’m currently learning Java, Linux, Hacking and Maths.
-- 📫 How to reach me: Add me on Discord; D7x8#9899.
-- 🥅 Goals: Take Cybersecurity engineering with Honours in university.
+- 📫 How to reach me: Add me on Discord @D7x8.
+- 🥅 Goals: Take computer science in university.
 
 
 ### 🛠️ Languages and Tools I use/study:
