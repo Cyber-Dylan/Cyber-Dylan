@@ -27,10 +27,6 @@ jobs:
           plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_details: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: random
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
