@@ -19,7 +19,7 @@ jobs:
           #Options
           user: D7x8
           template: classic
-          base: ""
+          base: header, repositories, community, activity, metadata
           config_timezone: Pacific/Auckland
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
