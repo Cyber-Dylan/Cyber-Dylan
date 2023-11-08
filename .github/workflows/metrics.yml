@@ -19,8 +19,8 @@ jobs:
           #Options
           user: D7x8
           template: classic
-          base: header
-          config_order: base.header, traffic, languages, isocalendar, topics, rss
+          base: ""
+          config_order: header, traffic, languages, isocalendar, topics, rss
           config_timezone: Pacific/Auckland
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
