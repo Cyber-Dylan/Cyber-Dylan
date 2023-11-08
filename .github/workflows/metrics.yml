@@ -19,11 +19,10 @@ jobs:
           # Options
           user: D7x8
           template: classic
-          config_timezone: Pacific/Auckland
           base: ""
+          config_timezone: Pacific/Auckland
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_topics: yes
           plugin_topics_limit: 10
-          plugin_topics_mode: icons
           plugin_chess_platform: lichess.org
