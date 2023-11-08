@@ -19,9 +19,12 @@ jobs:
           #Options
           user: D7x8
           template: classic
-          base: ""
-          config_order: header, traffic, languages, isocalendar, topics, rss
+          base: header
+          config_order: header, traffic, languages, isocalendar, topics, rss, stargazers
           config_timezone: Pacific/Auckland
+          plugin_introduction: yes
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: graph
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
