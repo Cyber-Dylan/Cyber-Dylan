@@ -27,4 +27,10 @@ jobs:
           plugin_topics_mode: lables
           plugin_topics_sort: random
           plugin_topics_limit: 15
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "0"
+          plugin_steam_sections: player, recently-played
           plugin_chess: yes
+          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          plugin_chess_platform: lichess.org
