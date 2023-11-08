@@ -27,7 +27,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
