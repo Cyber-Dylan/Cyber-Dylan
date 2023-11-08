@@ -21,17 +21,14 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: Pacific/Auckland
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_details: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
-          #plugin_chess: yes
-          #plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          #plugin_chess_platform: lichess.org
