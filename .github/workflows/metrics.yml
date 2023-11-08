@@ -19,7 +19,7 @@ jobs:
           #Options
           user: D7x8
           template: classic
-          base: header, introduction, repositories
+          base: ""
           config_order: header, introduction, traffic, languages, isocalendar, rss,
           config_timezone: Pacific/Auckland
           plugin_introduction: yes
