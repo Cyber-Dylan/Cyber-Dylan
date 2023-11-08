@@ -16,4 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          #Options
           
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
