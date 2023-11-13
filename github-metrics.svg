@@ -2099,8 +2099,17 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don't waste money on a math coprocessor they said</div>
-                                <div class="date">13 Nov 2023</div>
+                                <div class="title">To free the Baltic grid, old technology is new again</div>
+                                <div class="date">14 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal</div>
+                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2110,15 +2119,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             <div class="infos">
                                 <div class="title">Lessons I wish I had learned before teaching differential equations [pdf] (1997)</div>
                                 <div class="date">13 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Tragedy of Return to Hostile Offices</div>
-                                <div class="date">14 Nov 2023</div>
                             </div>
                         </div>
                     </section>
