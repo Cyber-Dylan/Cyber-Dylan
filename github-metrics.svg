@@ -2092,6 +2092,11 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2110,7 +2115,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Parrots learn to make video calls to chat with other parrots: study</div>
+                                <div class="title">Ask HN: Who is hiring? (December 2023)</div>
                                 <div class="date">2 Dec 2023</div>
                             </div>
                         </div>
@@ -2119,7 +2124,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Who is hiring? (December 2023)</div>
+                                <div class="title">300-year-old Tokyo comb company sells 30k-yen ($200) wooden hair combs</div>
                                 <div class="date">2 Dec 2023</div>
                             </div>
                         </div>
@@ -2137,7 +2142,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Nouveau graphics driver update</div>
+                                <div class="title">Stop building databases</div>
                                 <div class="date">2 Dec 2023</div>
                             </div>
                         </div>
