@@ -2105,6 +2105,15 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Everyday performance rules for Ruby on Rails developers</div>
+                                <div class="date">8 Dec 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Building end-to-end security for Messenger</div>
                                 <div class="date">7 Dec 2023</div>
                             </div>
@@ -2114,8 +2123,8 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Games Nintendo didn't want you to play: Tengen (2022)</div>
-                                <div class="date">6 Dec 2023</div>
+                                <div class="title">Show HN: Cujobay – A Modern Alternative to Crunchbase</div>
+                                <div class="date">8 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2123,17 +2132,8 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Until the 14th century women dominated the field of beer brewing</div>
-                                <div class="date">7 Dec 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">LogoFAIL: Secure Boot bypass with manipulated boot logos</div>
-                                <div class="date">4 Dec 2023</div>
+                                <div class="title">Which Movies Are the Most Polarizing? A Statistical Analysis</div>
+                                <div class="date">8 Dec 2023</div>
                             </div>
                         </div>
                     </section>
