@@ -23,6 +23,7 @@ jobs:
           config_order: netrics, header, introduction, traffic, languages, isocalendar, rss,
           config_timezone: Pacific/Auckland
           plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
