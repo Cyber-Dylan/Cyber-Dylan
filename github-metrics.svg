@@ -2077,6 +2077,11 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2095,7 +2100,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved</div>
+                                <div class="title">Potent psychedelic drug banishes PTSD</div>
                                 <div class="date">10 Jan 2024</div>
                             </div>
                         </div>
@@ -2104,7 +2109,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building an e-ink picture frame that displays an iCloud photo album</div>
+                                <div class="title">Wikihouse: Open-Source Houses</div>
                                 <div class="date">10 Jan 2024</div>
                             </div>
                         </div>
@@ -2122,7 +2127,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Wikihouse: Open-Source Houses</div>
+                                <div class="title">Building an e-ink picture frame that displays an iCloud photo album</div>
                                 <div class="date">10 Jan 2024</div>
                             </div>
                         </div>
