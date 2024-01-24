@@ -2093,6 +2093,15 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">scrapscript.py</div>
+                                <div class="date">24 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Waterway Map</div>
                                 <div class="date">24 Jan 2024</div>
                             </div>
@@ -2112,15 +2121,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             </svg>
                             <div class="infos">
                                 <div class="title">Gene therapy allows an 11-year-old boy to hear</div>
-                                <div class="date">24 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">SimSIMD: Hardware-accelerated similarity metrics and distance functions</div>
                                 <div class="date">24 Jan 2024</div>
                             </div>
                         </div>
