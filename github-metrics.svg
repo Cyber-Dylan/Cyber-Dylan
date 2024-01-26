@@ -2103,16 +2103,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple announces changes to iOS, Safari, and the App Store in the European Union</div>
-                                <div class="date">26 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Balancing Outdoor Risky Play and Injury Prevention in Childhood Development</div>
+                                <div class="title">Why Tailwind Isn't for Me</div>
                                 <div class="date">26 Jan 2024</div>
                             </div>
                         </div>
@@ -2132,6 +2123,15 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             <div class="infos">
                                 <div class="title">Portable EPUBs</div>
                                 <div class="date">26 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Man Who Carried Computer Science on His Shoulders</div>
+                                <div class="date">25 Jan 2024</div>
                             </div>
                         </div>
                     </section>
