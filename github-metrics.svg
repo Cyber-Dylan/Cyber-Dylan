@@ -2083,7 +2083,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">—-libcurl</div>
+                                <div class="title">What I Talk About When I Talk About Query Optimizer (Part 1): IR Design</div>
                                 <div class="date">30 Jan 2024</div>
                             </div>
                         </div>
@@ -2092,7 +2092,16 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Apple Vision Pro's Missing Apps</div>
+                                <div class="title">Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot</div>
+                                <div class="date">30 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How we had our Nectar Points stolen, and this is how yours will be too</div>
                                 <div class="date">30 Jan 2024</div>
                             </div>
                         </div>
@@ -2103,15 +2112,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             <div class="infos">
                                 <div class="title">Harmonics Explorer</div>
                                 <div class="date">29 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">There Is No Planet B (For Worldbuilding)</div>
-                                <div class="date">30 Jan 2024</div>
                             </div>
                         </div>
                     </section>
