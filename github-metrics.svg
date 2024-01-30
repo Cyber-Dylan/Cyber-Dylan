@@ -2097,8 +2097,17 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There's So Much Data Even Spies Are Struggling to Find Secrets</div>
-                                <div class="date">30 Jan 2024</div>
+                                <div class="title">I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals</div>
+                                <div class="date">31 Jan 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The original magic Emacs garbage collection hack (2019)</div>
+                                <div class="date">31 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2108,15 +2117,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             <div class="infos">
                                 <div class="title">Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers</div>
                                 <div class="date">31 Jan 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery</div>
-                                <div class="date">30 Jan 2024</div>
                             </div>
                         </div>
                     </section>
