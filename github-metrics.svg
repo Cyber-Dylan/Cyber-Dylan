@@ -2116,8 +2116,8 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">APL at Volvo</div>
-                                <div class="date">21 Feb 2024</div>
+                                <div class="title">I turned my ThinkPad into a programmable USB device</div>
+                                <div class="date">23 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2125,7 +2125,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable Diffusion 3</div>
+                                <div class="title">New code for SIGILL faults to help identify misbranches on OpenBSD</div>
                                 <div class="date">23 Feb 2024</div>
                             </div>
                         </div>
