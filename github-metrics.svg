@@ -2093,7 +2093,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">World War II 'Rumor Clinics' Helped America Battle Wild Gossip</div>
+                                <div class="title">Compression efficiency with shared dictionaries in Chrome</div>
                                 <div class="date">7 Mar 2024</div>
                             </div>
                         </div>
@@ -2102,7 +2102,16 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Early American Fire Alarm Systems (2022)</div>
+                                <div class="title">Medellín's Green Corridors Are a Breath of Fresh, Cool Air</div>
+                                <div class="date">7 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">World War II 'rumor clinics' helped America battle wild gossip</div>
                                 <div class="date">7 Mar 2024</div>
                             </div>
                         </div>
@@ -2112,15 +2121,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                             </svg>
                             <div class="infos">
                                 <div class="title">YaCy, a distributed Web Search Engine, based on a peer-to-peer network</div>
-                                <div class="date">6 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Network Tunneling with QEMU</div>
                                 <div class="date">6 Mar 2024</div>
                             </div>
                         </div>
