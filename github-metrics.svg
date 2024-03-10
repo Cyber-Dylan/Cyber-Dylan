@@ -2113,15 +2113,6 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How far are we from intelligent visual deductive reasoning?</div>
-                                <div class="date">11 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Rebuilding Memchess.com from Its Archive</div>
                                 <div class="date">11 Mar 2024</div>
                             </div>
@@ -2131,7 +2122,7 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning</div>
+                                <div class="title">Show HN: Timelock.dev – Send a secret into the future using timelock encryption</div>
                                 <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
@@ -2140,8 +2131,17 @@ I specialize in Cybersecurity, Hacking, programming, engineering, and Hardware.<
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moore on Moore – The past, present and uncertain future of Moore's Law</div>
-                                <div class="date">10 Mar 2024</div>
+                                <div class="title">DBeaver – open-source database client</div>
+                                <div class="date">11 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">The Fashion Police in 16th-century Italy</div>
+                                <div class="date">11 Mar 2024</div>
                             </div>
                         </div>
                     </section>
