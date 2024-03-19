@@ -2102,6 +2102,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Garnet – A new remote cache-store from Microsoft Research</div>
+                                <div class="date">19 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Stability.ai – Introducing Stable Video 3D</div>
                                 <div class="date">19 Mar 2024</div>
                             </div>
@@ -2113,15 +2122,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             <div class="infos">
                                 <div class="title">YouTube now requires to label their realistic-looking videos made using AI</div>
                                 <div class="date">19 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Extend Zigbee sensor range with LoRaWAN</div>
-                                <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
                     </section>
