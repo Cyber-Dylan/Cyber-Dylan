@@ -2093,15 +2093,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Not sure you're talking to a human? Create a human check</div>
-                                <div class="date">20 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">BootLogo: Logo language in 508 bytes of x86 machine code</div>
                                 <div class="date">19 Mar 2024</div>
                             </div>
@@ -2111,7 +2102,16 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ESA' Euclid Telescope Has an Ice Problem</div>
+                                <div class="title">Show HN: Hypersplit – Like Infinite Craft but in Reverse</div>
+                                <div class="date">20 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">LaTeX3 Automatic Labels for Fun and No Profit</div>
                                 <div class="date">19 Mar 2024</div>
                             </div>
                         </div>
@@ -2120,8 +2120,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gaining kernel code execution on an MTE-enabled Pixel 8</div>
-                                <div class="date">19 Mar 2024</div>
+                                <div class="title">Astronaut Thomas Stafford has died</div>
+                                <div class="date">20 Mar 2024</div>
                             </div>
                         </div>
                     </section>
