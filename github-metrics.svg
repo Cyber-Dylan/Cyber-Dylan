@@ -2101,6 +2101,13 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -2127,7 +2134,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Weather Planning for Eclipse Day</div>
+                                <div class="title">"She's Bouncing the Ball " on the Uncanny Way Octopuses Play</div>
                                 <div class="date">25 Mar 2024</div>
                             </div>
                         </div>
@@ -2136,8 +2143,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PSChess – A chess engine in PostScript</div>
-                                <div class="date">24 Mar 2024</div>
+                                <div class="title">Do Artifacts Have Politics? [pdf]</div>
+                                <div class="date">25 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2145,7 +2152,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">C++ left arrow operator (2016)</div>
+                                <div class="title">Weather Planning for Eclipse Day</div>
                                 <div class="date">25 Mar 2024</div>
                             </div>
                         </div>
