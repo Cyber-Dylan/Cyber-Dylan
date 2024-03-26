@@ -2093,7 +2093,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tech Debt: My Rust Library Is Now a CDO</div>
+                                <div class="title">Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086</div>
                                 <div class="date">27 Mar 2024</div>
                             </div>
                         </div>
@@ -2111,7 +2111,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">VLC can't update on Android without giving Google private signing keys</div>
+                                <div class="title">Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat</div>
                                 <div class="date">27 Mar 2024</div>
                             </div>
                         </div>
@@ -2120,8 +2120,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Radios, how do they work?</div>
-                                <div class="date">25 Mar 2024</div>
+                                <div class="title">Generating music in the waveform domain (2020)</div>
+                                <div class="date">27 Mar 2024</div>
                             </div>
                         </div>
                     </section>
