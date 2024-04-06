@@ -2115,7 +2115,16 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Do loud pipes save lives? (2021)</div>
+                                <div class="title">Tridge Returns to Rsync</div>
+                                <div class="date">7 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">What to do when an airline website doesn't accept your legal name</div>
                                 <div class="date">7 Apr 2024</div>
                             </div>
                         </div>
@@ -2126,15 +2135,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             <div class="infos">
                                 <div class="title">Chisel: A fast TCP/UDP tunnel over HTTP</div>
                                 <div class="date">4 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">What is the most useful project you have worked on?</div>
-                                <div class="date">7 Apr 2024</div>
                             </div>
                         </div>
                     </section>
