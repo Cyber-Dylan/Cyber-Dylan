@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           #Options
-          user: D7x8
+          user: Cyber-Dylan
           template: classic
           base: ""
           config_order: netrics, header, introduction, traffic, languages, isocalendar, rss,
