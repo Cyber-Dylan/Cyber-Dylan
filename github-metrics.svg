@@ -2104,6 +2104,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">I can't stand using VSCode so I wrote my own</div>
+                                <div class="date">22 Apr 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Tiny World Map</div>
                                 <div class="date">21 Apr 2024</div>
                             </div>
@@ -2113,8 +2122,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Doom-htop: The classic DOOM game over htop</div>
-                                <div class="date">21 Apr 2024</div>
+                                <div class="title">I made an open source Windows app to rewind and search everything on screen</div>
+                                <div class="date">22 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2123,15 +2132,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             </svg>
                             <div class="infos">
                                 <div class="title">Programming Is Mostly Thinking (2014)</div>
-                                <div class="date">21 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Lunatik: Lunatik is a framework for scripting the Linux kernel with Lua</div>
                                 <div class="date">21 Apr 2024</div>
                             </div>
                         </div>
