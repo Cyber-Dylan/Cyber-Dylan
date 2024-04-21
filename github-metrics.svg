@@ -2081,6 +2081,11 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2108,7 +2113,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Doomscroller.xyz</div>
+                                <div class="title">A Trivial Llama 3 Jailbreak</div>
                                 <div class="date">21 Apr 2024</div>
                             </div>
                         </div>
@@ -2117,7 +2122,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Financial Market Applications of LLMs</div>
+                                <div class="title">Depression Rates by Country 2024</div>
                                 <div class="date">21 Apr 2024</div>
                             </div>
                         </div>
@@ -2126,8 +2131,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Earth Online: non-stop satellite monitoring platform</div>
-                                <div class="date">19 Apr 2024</div>
+                                <div class="title">I bought 300 emoji domain names from Kazakhstan and built an email service</div>
+                                <div class="date">21 Apr 2024</div>
                             </div>
                         </div>
                     </section>
