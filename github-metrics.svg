@@ -2079,15 +2079,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why SQLite Uses Bytecode</div>
-                                <div class="date">30 Apr 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Show HN: I made a CLI tool to create web extensions with no build configuration</div>
                                 <div class="date">1 May 2024</div>
                             </div>
@@ -2097,8 +2088,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CloudGoat</div>
-                                <div class="date">30 Apr 2024</div>
+                                <div class="title">Bytecode VMs in Surprising Places</div>
+                                <div class="date">1 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2106,8 +2097,17 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: 3D framework for the web, built on Svelte and Three.js</div>
-                                <div class="date">30 Apr 2024</div>
+                                <div class="title">Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart</div>
+                                <div class="date">1 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Reddit is full of bots: thread reposted comment by comment, 10 months later</div>
+                                <div class="date">1 May 2024</div>
                             </div>
                         </div>
                     </section>
