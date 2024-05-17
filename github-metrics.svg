@@ -2103,6 +2103,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">ILGPU: Write GPU programs with C# and F#</div>
+                                <div class="date">18 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Wuffs: Wrangling Untrusted File Formats Safely</div>
                                 <div class="date">17 May 2024</div>
                             </div>
@@ -2114,15 +2123,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             <div class="infos">
                                 <div class="title">Exact binary vector search for RAG in 100 lines of Julia</div>
                                 <div class="date">17 May 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: I built a website to create financial models for any stock online</div>
-                                <div class="date">18 May 2024</div>
                             </div>
                         </div>
                     </section>
