@@ -2118,15 +2118,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI Personalization Fuels Groupthink and Uniformity</div>
-                                <div class="date">21 May 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">How a 64k intro is made (2017)</div>
                                 <div class="date">21 May 2024</div>
                             </div>
@@ -2136,7 +2127,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Llama3 implemented from scratch</div>
+                                <div class="title">Grothendieck’s use of equality</div>
                                 <div class="date">20 May 2024</div>
                             </div>
                         </div>
@@ -2146,6 +2137,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             </svg>
                             <div class="infos">
                                 <div class="title">3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe</div>
+                                <div class="date">20 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Llama3 implemented from scratch</div>
                                 <div class="date">20 May 2024</div>
                             </div>
                         </div>
