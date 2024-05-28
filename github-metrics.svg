@@ -2087,7 +2087,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Air Quality Model That Is Evolving with the Times</div>
+                                <div class="title">An air quality model that is evolving with the times</div>
                                 <div class="date">29 May 2024</div>
                             </div>
                         </div>
@@ -2096,7 +2096,16 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made a free app to calibrate your turntable by simply playing a song</div>
+                                <div class="title">Researchers accurately dating a 7k-year-old settlement using cosmic rays</div>
+                                <div class="date">28 May 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Generalizing Support for Functional OOP in R</div>
                                 <div class="date">29 May 2024</div>
                             </div>
                         </div>
@@ -2105,17 +2114,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mobifree – An open-source mobile ecosystem</div>
+                                <div class="title">Reproduce GPT-2 in llm.c</div>
                                 <div class="date">29 May 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Surprising Supernova Scars Cover the Earth</div>
-                                <div class="date">25 May 2024</div>
                             </div>
                         </div>
                     </section>
