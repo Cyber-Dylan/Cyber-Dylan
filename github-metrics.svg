@@ -2116,6 +2116,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">After my dad died, I ran and sold his company (2018)</div>
+                                <div class="date">23 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Farm: Fast vite compatible build tool written in Rust</div>
                                 <div class="date">22 Jun 2024</div>
                             </div>
@@ -2126,15 +2135,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             </svg>
                             <div class="infos">
                                 <div class="title">Reconstructing Public Keys from Signatures</div>
-                                <div class="date">21 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Memory sealing for the GNU C Library</div>
                                 <div class="date">21 Jun 2024</div>
                             </div>
                         </div>
