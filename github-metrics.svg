@@ -2096,6 +2096,15 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Researchers run high-performing LLM on the energy needed to power a lightbulb</div>
+                                <div class="date">25 Jun 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Microsoft removes documentation for switching to a local account in Windows 11</div>
                                 <div class="date">25 Jun 2024</div>
                             </div>
@@ -2105,16 +2114,7 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GCC and Clang handle statically known undefined behaviour</div>
-                                <div class="date">25 Jun 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">EGAIR – European Guild for Artificial Intelligence Regulation</div>
+                                <div class="title">How GCC and Clang handle statically known undefined behaviour</div>
                                 <div class="date">25 Jun 2024</div>
                             </div>
                         </div>
