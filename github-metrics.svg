@@ -2107,15 +2107,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]</div>
-                                <div class="date">7 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">First anode-free sodium solid-state battery</div>
                                 <div class="date">7 Jul 2024</div>
                             </div>
@@ -2125,8 +2116,8 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">He might have been the first jazz star</div>
-                                <div class="date">6 Jul 2024</div>
+                                <div class="title">Teaching general problem-solving skills is not a substitute for teaching math [pdf]</div>
+                                <div class="date">7 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -2134,8 +2125,17 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Properly testing concurrent data structures</div>
+                                <div class="title">Free and Open Source Software–and Other Market Failures</div>
                                 <div class="date">7 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Ford Dabney might have been the first jazz star</div>
+                                <div class="date">6 Jul 2024</div>
                             </div>
                         </div>
                     </section>
