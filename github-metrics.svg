@@ -2101,7 +2101,16 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Design a GraphQL Schema So Good, It'll Make REST APIs Cry</div>
+                                <div class="title">Return-to-Office Mandates Aren't Worth the Talent Risks</div>
+                                <div class="date">17 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">CSS Classes Considered Harmful</div>
                                 <div class="date">17 Jul 2024</div>
                             </div>
                         </div>
@@ -2111,15 +2120,6 @@ I specialize in Hacking/CyberSec, Programming, System Administration and knowled
                             </svg>
                             <div class="infos">
                                 <div class="title">Darwin Machines</div>
-                                <div class="date">17 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Data Formats: 3D, Audio, Image</div>
                                 <div class="date">17 Jul 2024</div>
                             </div>
                         </div>
