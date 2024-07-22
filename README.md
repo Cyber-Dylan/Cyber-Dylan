@@ -51,5 +51,9 @@ I'm a student studying Computer Science,
   
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dylan&show_icons=true&theme=blue-green" alt="Not working here :(" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Dylan&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vision-friendly-dark"/>
+</p>
+
+<p align="center">
+ <img width="1000" src="https://github.com/Cyber-Dylan/Cyber-Dylan/blob/output/github-contribution-grid-snake.svg" alt="snake thing"/>
 </p>
