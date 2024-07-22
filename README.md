@@ -24,21 +24,22 @@ I'm a student studying Computer Science,
 
 ### Languages and Tools I use:
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JetBrains" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NeoVim" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Javascript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="35x" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Godot" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arch Linux" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JetBrains" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NeoVim" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Javascript" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Godot" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Arch Linux" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
