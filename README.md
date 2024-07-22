@@ -42,8 +42,8 @@ I'm a student studying Computer Science,
 <h3 align="center"> Github Stats </h3>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vturdev&show_icons=true&theme=merko" alt="Not working :(" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vturdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" alt="Not working here :(" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dylan&show_icons=true&theme=merko" alt="Not working :(" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dylan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" alt="Not working here :(" />
 </p>
 
 
