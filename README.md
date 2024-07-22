@@ -14,9 +14,13 @@ I'm a student studying Computer Science,
 🌱 I’m currently learning Java, Cyber Security, and linux.
 🥅 Goals: To major in Computer Science in university.
 
+(You should also what organisation I am part of!)
+
   ```
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Ek8F_9qmhrUzODhh)
 
 ### Languages and Tools I use:
 
