@@ -1,10 +1,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=cyber-dylan&style=flat-square&color=blue" alt="Profile Views"/>
 
-About Me:
+# About Me:
 
 
-## I'm a student studying Computer Science.
+### I'm a student studying Computer Science, 
 
 - 🔭 I’m currently working my Java game.
 - 🌱 I’m currently learning Java, Cyber Security, and linux.
@@ -17,10 +17,14 @@ About Me:
 <img align="left" alt="JetBrains" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NeoVim" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="" width="52px" src="" style="padding-right:10px;" />
-<img align="left" alt="" width="52px" src="" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Godot" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="52px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
