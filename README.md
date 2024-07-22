@@ -48,9 +48,14 @@ I'm a student studying Computer Science,
 <h3 align="center"> Github Stats </h3>
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dylan&show_icons=true&theme=blue-green&rank_icon=github"/>
+</p>
+
+<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Dylan&theme=algolia&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark"/>
 </p>
 
