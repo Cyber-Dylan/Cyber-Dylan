@@ -56,7 +56,7 @@ I'm a student studying Computer Science,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=blue-green"/>
 </p>
 
 <p align="center">
