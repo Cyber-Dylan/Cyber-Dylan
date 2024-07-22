@@ -50,8 +50,8 @@ I'm a student studying Computer Science,
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dylan&show_icons=true&theme=blue-green&rank_icon=github" alt="Not working here :(" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Dylan&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vision-friendly-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Dylan&theme=algolia&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark"/>
 </p>
 
 <p align="center">
