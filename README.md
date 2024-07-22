@@ -14,7 +14,7 @@ I'm a student studying Computer Science,
 🌱 I’m currently learning Java, Cyber Security, and linux.
 🥅 Goals: To major in Computer Science in university.
 
-(You should also what organisation I am part of!)
+(You should also look at what organisation I am part of!)
 
   ```
 
