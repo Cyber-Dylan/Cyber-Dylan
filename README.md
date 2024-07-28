@@ -8,7 +8,7 @@
  ```css
 
 About Me:
-I'm a student studying Computer Science,
+I'm a student studying Computer Science and Cyber Security.
 
 🔭 I’m currently working my Java game.
 🌱 I’m currently learning Java, Cyber Security, and linux.
