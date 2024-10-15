@@ -37,7 +37,7 @@ I'm a student studying Computer Science and Cyber Security.
 <img align="left" alt="C#" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Raspberry Pi" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NixOS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
 
 <br />
