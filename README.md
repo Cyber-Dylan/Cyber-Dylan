@@ -10,9 +10,9 @@
 About Me:
 I'm a student studying Computer Science and Cyber Security.
 
-🔭 I’m currently working my Java game.
-🌱 I’m currently learning Java, Cyber Security, and linux.
-🥅 Goals: To major in Computer Science in university.
+🔭 I’m Currenty Studying Computer Science and AI at University.
+🌱 I’m currently learning the introductory courses for my first year.
+🥅 My biggest goal is to pass my first year university courses.
 
 (You should also look at what organisation I am part of!)
 
