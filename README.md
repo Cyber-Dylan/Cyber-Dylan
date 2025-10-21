@@ -3,8 +3,6 @@
 ```css
 ┌[Cyber-Dylan@github.com]-(~)
 └> cat AboutMe.txt
-
-
 About Me:
 
 🔭 I’m a studnt Currenty Studying Computer Science and AI at Victoria University.
