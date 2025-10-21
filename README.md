@@ -8,10 +8,9 @@
  ```css
 
 About Me:
-I'm a student studying Computer Science and Cyber Security.
 
-🔭 I’m Currenty Studying Computer Science and AI at University.
-🌱 I’m currently learning the introductory courses for my first year.
+🔭 I’m a studnt Currenty Studying Computer Science and AI at Victoria University.
+🌱 I’m currently learning Java and the fundamentals of AI.
 🥅 My biggest goal is to pass my first year university courses.
 
 (You should also look at what organisation I am part of!)
