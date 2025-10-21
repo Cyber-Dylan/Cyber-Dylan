@@ -3,9 +3,7 @@
 ```css
 ┌[Cyber-Dylan@github.com]-(~)
 └> cat AboutMe.txt
-```
 
- ```css
 
 About Me:
 
@@ -15,8 +13,7 @@ About Me:
 
 (You should also look at what organisation I am part of!)
 
-  ```
-
+ ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Ek8F_9qmhrUzODhh)
