@@ -26,6 +26,7 @@ About Me:
 <img align="left" alt="Java" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Portainer" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Proxmox" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="NixOS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
