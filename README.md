@@ -10,8 +10,6 @@ About Me:
 🌱 I’m currently learning Java and the fundamentals of AI.
 🥅 My biggest goal is to pass my first year university courses.
 
-(You should also look at what organisation I am part of!)
-
  ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
 
