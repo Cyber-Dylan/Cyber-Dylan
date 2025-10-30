@@ -1,12 +1,12 @@
 <h1 align="center"> Hello!</h1>
 
 ```css
-┌[Cyber-Dylan@github.com]-(~)
+┌[Dylan@dylantaylor.dev]-(~)
 └> cat AboutMe.txt
 
 About Me:
 
-🔭 I’m a studnt Currenty Studying Computer Science and AI at Victoria University.
+🔭 I’m a student Currenty Studying Computer Science and AI at Victoria University.
 🌱 I’m currently learning Java and the fundamentals of AI.
 🥅 My biggest goal is to pass my first year university courses.
 
@@ -14,8 +14,6 @@ About Me:
 
  ```
 ![ProfileViews](https://komarev.com/ghpvc/?username=Cyber-Dylan&style=flat&color=blueviolet)
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Ek8F_9qmhrUzODhh)
 
 ### Languages and Tools I use:
 
@@ -28,10 +26,9 @@ About Me:
 <img align="left" alt="Javascript" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Proxmox" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="NixOS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arch Linux" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
 
