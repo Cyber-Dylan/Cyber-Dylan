@@ -39,17 +39,17 @@ About Me:
 <h3 align="center"> Github Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Dylan&show_icons=true&theme=blue-green&rank_icon=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dizzle0&show_icons=true&theme=blue-green&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyber-Dylan&theme=algolia&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dizzle0&theme=algolia&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Dylan&layout=pie&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzle0&layout=pie&theme=blue-green"/>
 </p>
 
 <p align="center">
- <img width="1000" src="https://github.com/Cyber-Dylan/Cyber-Dylan/blob/output/github-contribution-grid-snake.svg" alt="snake thing"/>
+ <img width="1000" src="https://github.com/dizzle0/dizzle0/blob/output/github-contribution-grid-snake.svg" alt="snake thing"/>
 </p>
